@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/computer-vision-project.iml
+/misc.xml
+/modules.xml
+/inspectionProfiles/
+/vcs.xml
